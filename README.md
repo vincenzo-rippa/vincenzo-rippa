@@ -1,6 +1,6 @@
 # Vincenzo Rippa
  
-### Technical Lead / Application Architect**
+### Technical Lead / Application Architect
  
 *Hands-on Technical Lead · Application Architecture · API & Integration · Web / Mobile / Cloud*
  
